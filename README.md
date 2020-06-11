@@ -1,2 +1,2 @@
-# Basics-test
+# basics-test
 Basics test repository
