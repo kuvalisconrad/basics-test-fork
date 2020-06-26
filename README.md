@@ -1,2 +1,2 @@
 # basics-test
-Test repository, some fun with the basics.
+Test repository, having some fun with the basics.
